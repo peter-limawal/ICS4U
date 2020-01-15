@@ -54,7 +54,7 @@ public class StockTransactionProgram {
       // Second calculation
       double joeSold = numOfSharesSell * pricePerShare;
       double commissionSold = joeSold * (commission / 100);
-      double finalSum = (joeSold - commissionSold) - (joePaid - commissionPaid);
+      double finalSum = joeSold - commissionSold - joePaid - commissionPaid;
       
       // Output
       System.out.printf("\nAmount of money you paid for the stock: $%.2f", joePaid);

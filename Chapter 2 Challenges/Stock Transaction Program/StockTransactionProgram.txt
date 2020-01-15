@@ -1,0 +1,15 @@
+ ----jGRASP exec: java StockTransactionProgram
+Hello Joe! How many shares would you like to purchase from Acme Software, Inc.? : 1000
+How much is one share of Acme Software, Inc.? : 32.87
+For commission, how many percent would you give to your stockbroker? : 2
+
+Two weeks later...Hello Joe! How many shares would you like to sell from Acme Software, Inc.? : 1000
+How much is one share of Acme Software, Inc.? : 33.92
+For commission, how many percent would you give to your stockbroker? : 2
+
+Amount of money you paid for the stock: $32870.00
+The amount of commission you paid your broker when you bought the stock: $657.40
+The amount that you sold the stock for: $33920.00
+The amount of commission you paid your broker when you sold the stock: $678.40
+Your profit is $-285.80
+ ----jGRASP: operation complete.
