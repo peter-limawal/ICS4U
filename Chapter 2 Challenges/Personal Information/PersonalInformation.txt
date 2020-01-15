@@ -1,0 +1,14 @@
+ ----jGRASP exec: java PersonalInformation
+What is your name? : Peter Limawal
+What is your address? : 1029 Main Street West
+What city do you live in? : Hamilton
+What state do you live in? : Ontario
+What is your ZIP code? : ON L8S 4R9
+What is your phone number? : +1 647-123-4567
+What is your major in college? : Computer Science
+
+Name: Peter Limawal
+Address: 1029 Main Street West, Hamilton, Ontario, ON L8S 4R9
+Phone Number: +1 647-123-4567
+College Major: Computer Science
+ ----jGRASP: operation complete.

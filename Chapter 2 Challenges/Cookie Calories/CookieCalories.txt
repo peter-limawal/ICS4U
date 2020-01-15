@@ -1,0 +1,6 @@
+ ----jGRASP exec: java CookieCalories
+How many cookies have you eaten? : 15
+
+You ate 15 cookies
+You have consumed 1125 calories
+ ----jGRASP: operation complete.

@@ -1,0 +1,11 @@
+ ----jGRASP exec: java SalesTax
+Please enter amount of purchase : 600
+Please enter the state sales tax : 4
+Please enter the country sales tax : 2
+
+Amount of purchase: $600.00
+State sales tax: $24.00
+Country sales tax: $12.00
+Total sales tax: $36.00
+Total of sale: $636.00
+ ----jGRASP: operation complete.

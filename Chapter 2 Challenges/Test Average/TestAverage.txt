@@ -1,0 +1,10 @@
+ ----jGRASP exec java TestAverage
+Enter the first test score : 92
+Enter the second test score : 97
+Enter the third test score : 91
+
+The first score is 92.0
+The second score is 97.0
+The third score is 91.0
+The average out of the three scores is 93.33
+ ----jGRASP operation complete.
