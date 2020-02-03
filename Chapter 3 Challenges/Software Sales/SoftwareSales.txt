@@ -1,0 +1,45 @@
+ ----jGRASP exec: java SoftwareSales
+How many packages have you purchased? : 5
+
+You have purchased 5 packages
+The total amount of your purchase before discount is $495.00
+You have earned a discount of 0.0%
+Your discount is $0.00
+The final amount of your purchase is $495.00
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java SoftwareSales
+How many packages have you purchased? : 16
+
+You have purchased 16 packages
+The total amount of your purchase before discount is $1584.00
+You have earned a discount of 20.0%
+Your discount is $316.80
+The final amount of your purchase is $1267.20
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java SoftwareSales
+How many packages have you purchased? : 16
+
+You have purchased 16 packages
+The total amount of your purchase before discount is $1584.00
+You have earned a discount of 20.0%
+Your discount is $316.80
+The final amount of your purchase is $1267.20
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java SoftwareSales
+How many packages have you purchased? : 180
+
+You have purchased 180 packages
+The total amount of your purchase before discount is $17820.00
+You have earned a discount of 50.0%
+Your discount is $8910.00
+The final amount of your purchase is $8910.00
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java SoftwareSales
+How many packages have you purchased? : -5
+
+ERROR! There can only be a positive number of quantities!
+ ----jGRASP: operation complete.

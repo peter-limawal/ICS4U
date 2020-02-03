@@ -1,0 +1,31 @@
+ ----jGRASP exec: java InternetServiceProvider
+Please enter the letter of the package you have purchased (A/B/C) : A
+Please enter the number of hours used : 50
+
+You have selected package A and used it for 50 hours
+Your total charge for this month is $89.95
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java InternetServiceProvider
+Please enter the letter of the package you have purchased (A/B/C) : B
+Please enter the number of hours used : 20
+
+You have selected package B and used it for 20 hours
+Your total charge for this month is $13.95
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java InternetServiceProvider
+Please enter the letter of the package you have purchased (A/B/C) : C
+Please enter the number of hours used : 500
+
+You have selected package C and used it for 500 hours
+Your total charge for this month is $19.95
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java InternetServiceProvider
+Please enter the letter of the package you have purchased (A/B/C) : D
+Please enter the number of hours used : -20
+
+ERROR! Please enter a valid package! (A/B/C)
+ERROR! Number of hours used cannot be negative
+ ----jGRASP: operation complete.

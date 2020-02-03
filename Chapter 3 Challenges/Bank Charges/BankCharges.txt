@@ -1,0 +1,33 @@
+ ----jGRASP exec: java BankCharges
+How many checks have you written for the month? : 19
+
+You have written 19 checks for the month
+You owe the bank $11.90 in service fees for the month
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java BankCharges
+How many checks have you written for the month? : 40
+
+You have written 40 checks for the month
+You owe the bank $12.40 in service fees for the month
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java BankCharges
+How many checks have you written for the month? : 100
+
+You have written 100 checks for the month
+You owe the bank $14.00 in service fees for the month
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java BankCharges
+How many checks have you written for the month? : 0
+
+You have written 0 checks for the month
+You owe the bank $10.00 in service fees for the month
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java BankCharges
+How many checks have you written for the month? : -10
+
+ERROR! Number of checks written cannot be less than 0!
+ ----jGRASP: operation complete.

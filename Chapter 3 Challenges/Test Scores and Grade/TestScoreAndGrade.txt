@@ -1,0 +1,26 @@
+ ----jGRASP exec: java TestScoreAndGrade
+Please enter the first score : 97
+Please enter the second score : 92
+Please enter the third score : 91
+
+The average of the three scores are 93.33
+The score is considered grade A.
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java TestScoreAndGrade
+Please enter the first score : 76
+Please enter the second score : 85
+Please enter the third score : 66
+
+The average of the three scores are 75.67
+The score is considered grade C.
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java TestScoreAndGrade
+Please enter the first score : 14
+Please enter the second score : 40
+Please enter the third score : 27
+
+The average of the three scores are 27.00
+The score is considered grade F.
+ ----jGRASP: operation complete.

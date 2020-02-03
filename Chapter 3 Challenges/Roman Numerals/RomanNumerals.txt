@@ -1,0 +1,24 @@
+ ----jGRASP exec: java RomanNumerals
+Please enter an integer between 1 - 10 to convert into roman numerals : 1
+The number 1 is I in roman numerals.
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java RomanNumerals
+Please enter an integer between 1 - 10 to convert into roman numerals : 5
+The number 5 is V in roman numerals.
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java RomanNumerals
+Please enter an integer between 1 - 10 to convert into roman numerals : 10
+The number 10 is X in roman numerals.
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java RomanNumerals
+Please enter an integer between 1 - 10 to convert into roman numerals : 0
+ERROR! Please enter an integer between 1 - 10
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java RomanNumerals
+Please enter an integer between 1 - 10 to convert into roman numerals : 11
+ERROR! Please enter an integer between 1 - 10
+ ----jGRASP: operation complete.

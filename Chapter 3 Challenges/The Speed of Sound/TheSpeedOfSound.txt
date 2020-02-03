@@ -1,0 +1,34 @@
+ ----jGRASP exec: java TheSpeedOfSound
+What medium will the sound wave travel in? (air/water/steel) : air
+What is the distance that the sound wave will travel in the medium? (in feet) : 100
+
+It will take approximately 0.09 seconds for the sound wave to travel
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java TheSpeedOfSound
+What medium will the sound wave travel in? (air/water/steel) : water
+What is the distance that the sound wave will travel in the medium? (in feet) : 31415
+
+It will take approximately 6.41 seconds for the sound wave to travel
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java TheSpeedOfSound
+What medium will the sound wave travel in? (air/water/steel) : steel
+What is the distance that the sound wave will travel in the medium? (in feet) : 88888888
+
+It will take approximately 5420.05 seconds for the sound wave to travel
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java TheSpeedOfSound
+What medium will the sound wave travel in? (air/water/steel) : wood
+What is the distance that the sound wave will travel in the medium? (in feet) : 500
+
+ERROR! Please enter a proper medium! (air/water/steel)
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java TheSpeedOfSound
+What medium will the sound wave travel in? (air/water/steel) : water
+What is the distance that the sound wave will travel in the medium? (in feet) : -10
+
+ERROR! Distance travelled cannot be less than 0!
+----jGRASP: operation complete.

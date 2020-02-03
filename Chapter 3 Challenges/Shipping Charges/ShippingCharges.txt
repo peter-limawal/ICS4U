@@ -1,0 +1,34 @@
+ ----jGRASP exec: java ShippingCharges
+How many pounds does your package weigh? : 2
+How many miles away are you shipping your package? : 500
+
+Your package weighs 2.0 pounds
+The distance of your shipment is 500 miles
+The cost for shipping your package is $1.10
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java ShippingCharges
+How many pounds does your package weigh? : 10
+How many miles away are you shipping your package? : 8888
+
+Your package weighs 10.0 pounds
+The distance of your shipment is 8888 miles
+The cost for shipping your package is $66.60
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java ShippingCharges
+How many pounds does your package weigh? : 100
+How many miles away are you shipping your package? : 550
+
+Your package weighs 100.0 pounds
+The distance of your shipment is 550 miles
+The cost for shipping your package is $7.60
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java ShippingCharges
+How many pounds does your package weigh? : -5
+How many miles away are you shipping your package? : -100
+
+ERROR! The weight of a package cannot be negative!
+ERROR! The amount of miles shipped cannot be less than 0!
+ ----jGRASP: operation complete.
