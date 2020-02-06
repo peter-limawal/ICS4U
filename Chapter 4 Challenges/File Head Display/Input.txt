@@ -1,9 +1,12 @@
- ----jGRASP exec: java FileHeadDisplay
-Enter file name : Input.txt
-
 Gone too far to change,
 time to get your rollerblades.
 That smile is worth the wait,
 here comes better days.
 Rich Brian
- ----jGRASP: operation complete.
+1
+2
+3
+4
+5
+6
+7

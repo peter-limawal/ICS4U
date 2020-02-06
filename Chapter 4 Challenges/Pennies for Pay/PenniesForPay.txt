@@ -1,0 +1,19 @@
+ ----jGRASP exec: java PenniesForPay
+Enter number of days : 0
+
+ERROR! Number of days cannot be less than 1!
+Enter number of days : 9
+
+Number of days:           Pay per day:
+1                         $0.01
+2                         $0.02
+3                         $0.04
+4                         $0.08
+5                         $0.16
+6                         $0.32
+7                         $0.64
+8                         $1.28
+9                         $2.56
+
+Your salary is : $5.11
+ ----jGRASP: operation complete.

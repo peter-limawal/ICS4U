@@ -1,0 +1,24 @@
+ ----jGRASP exec: java ESPGame
+Enter guess 1 (red, green, blue, orange, yellow) : blue
+The correct colour is red
+Enter guess 2 (red, green, blue, orange, yellow) : blue
+The correct colour is green
+Enter guess 3 (red, green, blue, orange, yellow) : red
+The correct colour is orange
+Enter guess 4 (red, green, blue, orange, yellow) : green
+The correct colour is green
+Enter guess 5 (red, green, blue, orange, yellow) : orange
+The correct colour is green
+Enter guess 6 (red, green, blue, orange, yellow) : orange
+The correct colour is green
+Enter guess 7 (red, green, blue, orange, yellow) : yellow
+The correct colour is red
+Enter guess 8 (red, green, blue, orange, yellow) : green
+The correct colour is orange
+Enter guess 9 (red, green, blue, orange, yellow) : red
+The correct colour is red
+Enter guess 10 (red, green, blue, orange, yellow) : red
+The correct colour is blue
+
+You got 2 out of 10!
+ ----jGRASP: operation complete.

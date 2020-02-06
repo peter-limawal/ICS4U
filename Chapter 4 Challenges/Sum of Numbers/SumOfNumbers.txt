@@ -1,0 +1,27 @@
+ ----jGRASP exec: java SumOfNumbers
+Enter positive non-zero number : -1
+ERROR! Please enter a positive non-zero integer!
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java SumOfNumbers
+Enter positive non-zero number : 10
+
+55
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java SumOfNumbers
+Enter positive non-zero number : 0
+ERROR! Please enter a positive non-zero integer!
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java SumOfNumbers
+Enter positive non-zero number : 1
+
+1
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java SumOfNumbers
+Enter positive non-zero number : 16
+
+136
+ ----jGRASP: operation complete.

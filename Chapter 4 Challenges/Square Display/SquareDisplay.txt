@@ -1,0 +1,24 @@
+ ----jGRASP exec: java SquareDisplay
+Enter number between and including 1 - 14 : 0
+
+ERROR! Number is not between and including 1 - 14!
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java SquareDisplay
+Enter number between and including 1 - 14 : 20
+
+ERROR! Number is not between and including 1 - 14!
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java SquareDisplay
+Enter number between and including 1 - 14 : 8
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+
+ ----jGRASP: operation complete.

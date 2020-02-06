@@ -1,0 +1,26 @@
+ ----jGRASP exec: java BudgetAnalysis
+What is your monthly budget? : 500
+Enter expense 1 (enter -99 to finish) : 150
+Enter expense 2 (enter -99 to finish) : 198.16
+Enter expense 3 (enter -99 to finish) : 600
+Enter expense 4 (enter -99 to finish) : -99
+
+You are $448.16 over budget!
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java BudgetAnalysis
+What is your monthly budget? : 1000
+Enter expense 1 (enter -99 to finish) : 2.5
+Enter expense 2 (enter -99 to finish) : 3.6
+Enter expense 3 (enter -99 to finish) : -99
+
+You are $993.90 under budget.
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java BudgetAnalysis
+What is your monthly budget? : 10
+Enter expense 1 (enter -99 to finish) : 10
+Enter expense 2 (enter -99 to finish) : -99
+
+You are $0.00 over budget!
+ ----jGRASP: operation complete.

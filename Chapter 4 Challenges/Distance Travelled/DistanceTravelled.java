@@ -65,6 +65,6 @@ public class DistanceTravelled {
          
       }
       
-   }
+   } // Main method
    
-}
+} // End class

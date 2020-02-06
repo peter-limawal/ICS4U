@@ -1,0 +1,36 @@
+ ----jGRASP exec: java DistanceTravelled
+Enter speed of vehicle (mph) : 20
+Enter number of hours travelled : 8
+
+Hour     Distance Travelled
+---------------------------
+  1             20
+  2             40
+  3             60
+  4             80
+  5             100
+  6             120
+  7             140
+  8             160
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java DistanceTravelled
+Enter speed of vehicle (mph) : -100
+Enter number of hours travelled : 0
+
+ERROR! Speed cannot be less than zero!
+Enter speed of vehicle (mph) : 10
+
+ERROR! Time cannot be less than one!
+Enter number of hours travelled : 5
+
+Hour     Distance Travelled
+---------------------------
+  1             10
+  2             20
+  3             30
+  4             40
+  5             50
+
+ ----jGRASP: operation complete.

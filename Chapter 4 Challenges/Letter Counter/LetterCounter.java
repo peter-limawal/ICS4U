@@ -42,6 +42,6 @@ public class LetterCounter {
       // Output
       System.out.print("\nCount : " + count);
       
-   }
+   } // Main method
    
-}
+} // End class

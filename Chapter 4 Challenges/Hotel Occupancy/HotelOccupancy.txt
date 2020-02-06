@@ -1,0 +1,33 @@
+ ----jGRASP exec: java HotelOccupancy
+How many floors are in the hotel? : 3
+How many rooms are in floor 1? : 10
+How many rooms in floor 1 are occupied? : 10
+How many rooms are in floor 2? : 10
+How many rooms in floor 2 are occupied? : 10
+How many rooms are in floor 3? : 10
+How many rooms in floor 3 are occupied? : 10
+
+The hotel has 30 number of rooms
+The hotel has 30 occupied rooms
+The hotel has 0 vacant rooms
+The hotel's occupancy rate is 100.00%
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java HotelOccupancy
+How many floors are in the hotel? : 0
+
+ERROR! Number of floors cannot be less than 1!
+How many floors are in the hotel? : 2
+How many rooms are in floor 1? : 0
+
+ERROR! Number of rooms cannot be less than 10!
+How many rooms are in floor 1? : 15
+How many rooms in floor 1 are occupied? : 0
+How many rooms are in floor 2? : 20
+How many rooms in floor 2 are occupied? : 2
+
+The hotel has 35 number of rooms
+The hotel has 2 occupied rooms
+The hotel has 33 vacant rooms
+The hotel's occupancy rate is 5.71%
+ ----jGRASP: operation complete.

@@ -55,6 +55,6 @@ public class FileLetterCounter {
       // Output
       System.out.print("\nCount : " + count);
       
-   }
+   } // Main method
    
-}
+} // End class

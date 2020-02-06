@@ -68,10 +68,10 @@ public class AverageRainfall {
          // Output
          System.out.print("\nNumber of months : " + (numOfYears * 12));
          System.out.print("\nTotal inches of rainfall : " + totalInchesOfRain);
-         System.out.print("\nAverage rainfall per month : " + averageRain);
+         System.out.printf("\nAverage rainfall per month : %.3f", averageRain);
          
       }
       
-   }
+   } // Main method
    
-}
+} // End class

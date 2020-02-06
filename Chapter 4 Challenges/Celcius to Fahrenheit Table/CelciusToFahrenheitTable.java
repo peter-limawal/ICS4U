@@ -25,6 +25,6 @@ public class CelciusToFahrenheitTable {
          
       }
       
-   }
+   } // Main method
    
-}
+} // End class

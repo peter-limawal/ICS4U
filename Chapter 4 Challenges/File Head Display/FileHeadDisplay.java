@@ -38,6 +38,6 @@ public class FileHeadDisplay {
          }
       }
       
-   }
+   } // Main method
    
-}
+} // End class

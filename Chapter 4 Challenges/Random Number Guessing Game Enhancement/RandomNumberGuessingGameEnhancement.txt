@@ -1,0 +1,24 @@
+ ----jGRASP exec: java RandomNumberGuessingGameEnhancement
+Guess the number! (Hint: 1-100) : 50
+
+Too high, try again
+Enter number : 25
+
+Too low, try again
+Enter number : 38
+
+Too high, try again
+Enter number : 30
+
+Too high, try again
+Enter number : 27
+
+Too low, try again
+Enter number : 29
+
+Too high, try again
+Enter number : 28
+
+Congratulations! The number is 28!
+It took you 7 guesses!
+ ----jGRASP: operation complete.

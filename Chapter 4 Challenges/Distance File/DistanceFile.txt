@@ -1,0 +1,18 @@
+Input:
+
+ ----jGRASP exec: java DistanceFile
+Enter speed of vehicle (mph) : 10
+Enter number of hours travelled : 5
+
+ ----jGRASP: operation complete.
+
+
+Output:
+
+Hour     Distance Travelled
+---------------------------
+  1             10
+  2             20
+  3             30
+  4             40
+  5             50

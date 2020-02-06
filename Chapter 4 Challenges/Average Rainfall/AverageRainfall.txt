@@ -1,0 +1,37 @@
+ ----jGRASP exec: java AverageRainfall
+Enter number of years : 0
+
+ERROR! Number of years cannot be less than 1!
+Enter number of years : 2
+Enter inches of rain for year 1, month 1 : 10
+Enter inches of rain for year 1, month 2 : 9
+Enter inches of rain for year 1, month 3 : 8
+Enter inches of rain for year 1, month 4 : 7
+Enter inches of rain for year 1, month 5 : 6
+Enter inches of rain for year 1, month 6 : 5
+Enter inches of rain for year 1, month 7 : 4
+Enter inches of rain for year 1, month 8 : 3
+Enter inches of rain for year 1, month 9 : 2
+Enter inches of rain for year 1, month 10 : 1
+Enter inches of rain for year 1, month 11 : 0
+Enter inches of rain for year 1, month 12 : -1
+
+ERROR! Inches of rainfall cannot be less than zero!
+Enter inches of rain for year 1, month 12 : 8
+Enter inches of rain for year 2, month 1 : 9
+Enter inches of rain for year 2, month 2 : 10
+Enter inches of rain for year 2, month 3 : 11
+Enter inches of rain for year 2, month 4 : 12
+Enter inches of rain for year 2, month 5 : 13
+Enter inches of rain for year 2, month 6 : 14
+Enter inches of rain for year 2, month 7 : 15
+Enter inches of rain for year 2, month 8 : 16
+Enter inches of rain for year 2, month 9 : 17
+Enter inches of rain for year 2, month 10 : 18
+Enter inches of rain for year 2, month 11 : 19
+Enter inches of rain for year 2, month 12 : 20
+
+Number of months : 24
+Total inches of rainfall : 237.0
+Average rainfall per month : 9.875
+ ----jGRASP: operation complete.

@@ -35,6 +35,6 @@ public class LineNumbers {
          
       }
       
-   }
+   } // Main method
    
-}
+} // End class

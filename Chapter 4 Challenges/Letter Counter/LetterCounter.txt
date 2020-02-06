@@ -1,0 +1,6 @@
+ ----jGRASP exec: java LetterCounter
+Please enter words : the quick brown fox jumps over the lazy dog
+Please enter character : q
+
+Count : 1
+ ----jGRASP: operation complete.

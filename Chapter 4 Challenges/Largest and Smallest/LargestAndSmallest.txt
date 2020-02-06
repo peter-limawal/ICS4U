@@ -1,0 +1,18 @@
+ ----jGRASP exec: java LargestAndSmallest
+Enter an integer (enter -99 to end program) : 5
+Enter another integer (enter -99 to end program) : 10
+Enter another integer (enter -99 to end program) : 15
+Enter another integer (enter -99 to end program) : 20
+Enter another integer (enter -99 to end program) : 25
+Enter another integer (enter -99 to end program) : 30
+Enter another integer (enter -99 to end program) : 40
+Enter another integer (enter -99 to end program) : 35
+Enter another integer (enter -99 to end program) : 60
+Enter another integer (enter -99 to end program) : 45
+Enter another integer (enter -99 to end program) : 50
+Enter another integer (enter -99 to end program) : 55
+Enter another integer (enter -99 to end program) : -99
+
+Smallest number : 5
+Largest number : 60
+ ----jGRASP: operation complete.

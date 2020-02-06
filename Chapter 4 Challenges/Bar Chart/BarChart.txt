@@ -1,0 +1,14 @@
+ ----jGRASP exec: java BarChart
+Enter today's sales for store 1: 600
+Enter today's sales for store 2: 1600
+Enter today's sales for store 3: 2600
+Enter today's sales for store 4: 3600
+Enter today's sales for store 5: 4600
+
+SALES BAR CHART
+Store 1: ******
+Store 2: ****************
+Store 3: **************************
+Store 4: ************************************
+Store 5: **********************************************
+ ----jGRASP: operation complete.

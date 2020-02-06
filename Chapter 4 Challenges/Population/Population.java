@@ -78,6 +78,6 @@ public class Population {
          
       }
       
-   }
+   } // Main method
    
-}
+} // End class

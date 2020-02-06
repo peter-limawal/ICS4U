@@ -41,6 +41,6 @@ public class BudgetAnalysis {
          System.out.printf("\nYou are $%.2f under budget.", (budget - tally));
       }
       
-   }
+   } // Main method
    
-}
+} // End class

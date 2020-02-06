@@ -50,6 +50,6 @@ public class RandomNumberGuessingGame {
             
       }
       
-   }
+   } // Main method
    
-}
+} // End class

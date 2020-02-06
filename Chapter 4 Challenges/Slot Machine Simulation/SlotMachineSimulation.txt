@@ -1,0 +1,47 @@
+ ----jGRASP exec: java SlotMachineSimulation
+Would you like to play a game? (Yes/No) : no
+Sorry! Game over!
+
+You entered : $0.00
+You have won : $0.00
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java SlotMachineSimulation
+Would you like to play a game? (Yes/No) : yes
+Enter the initial amount of money you have : 500
+Enter amount of money you want to bet: 100
+Bells   Oranges   Cherries
+Sorry! You have earned $0
+
+Would you like to play another game? (Yes/No) : yes
+Enter amount of money you want to bet: 300
+Bells   Melons   Melons
+You have earned two times the amount entered!
+
+Would you like to play another game? (Yes/No) : no
+
+
+You entered : $500.00
+You have won : $200.00
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java SlotMachineSimulation
+Would you like to play a game? (Yes/No) : yes
+Enter the initial amount of money you have : 10
+Enter amount of money you want to bet: 10
+Melons   Oranges   Oranges
+You have earned two times the amount entered!
+
+Would you like to play another game? (Yes/No) : yes
+Enter amount of money you want to bet: 30
+ERROR! You don't have enough money!
+Enter amount of money you want to bet: 20
+Plums   Bells   Oranges
+Sorry! You have earned $0
+
+Would you like to play another game? (Yes/No) : yes
+Sorry! Game over!
+
+You entered : $10.00
+You have won : $0.00
+ ----jGRASP: operation complete.

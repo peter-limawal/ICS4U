@@ -1,5 +1,6 @@
-The quick brown fox jumps over the lazy dog
+ ----jGRASP exec: java FileLetterCounter
+Please enter file name : Input.txt
+Please enter character : t
 
-The quick brown fox jumps over the lazy dog
-
-The quick brown fox jumps over the lazy dog
+Count : 6
+ ----jGRASP: operation complete.

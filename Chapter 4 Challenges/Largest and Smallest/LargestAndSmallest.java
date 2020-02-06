@@ -54,6 +54,6 @@ public class LargestAndSmallest {
       System.out.print("\nSmallest number : " + smallest);
       System.out.print("\nLargest number : " + largest);
       
-   }
+   } // Main method
    
-}
+} // End class

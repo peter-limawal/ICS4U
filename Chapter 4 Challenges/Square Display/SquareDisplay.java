@@ -37,6 +37,6 @@ public class SquareDisplay {
          System.out.print("\nERROR! Number is not between and including 1 - 14!");
       }
       
-   }
+   } // Main method
    
-}
+} // End class

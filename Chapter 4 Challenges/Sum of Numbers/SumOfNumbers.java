@@ -44,6 +44,6 @@ public class SumOfNumbers {
          
       }
       
-   }
+   } // Main method
    
-}
+} // End class

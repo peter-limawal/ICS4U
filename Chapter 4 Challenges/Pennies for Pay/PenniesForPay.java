@@ -49,6 +49,6 @@ public class PenniesForPay {
          
       }
       
-   }
+   } // Main method
    
-}
+} // End class

@@ -1,0 +1,8 @@
+ ----jGRASP exec: java RandomNumberGuessingGame
+Guess the number! (Hint: 1-100) : 50
+
+Too high, try again
+Enter number : 25
+
+Congratulations! The number is 25!
+ ----jGRASP: operation complete.

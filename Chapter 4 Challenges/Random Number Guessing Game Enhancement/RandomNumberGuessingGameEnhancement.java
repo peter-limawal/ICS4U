@@ -54,6 +54,6 @@ public class RandomNumberGuessingGameEnhancement {
             
       }
       
-   }
+   } // Main method
    
-}
+} // End class

@@ -14,7 +14,7 @@ public class BarChart {
       // Declaring variables
       int sales;
       int bar;
-      String output = "SALES BAR CHART";
+      String output = "\nSALES BAR CHART";
       
       // Scanner object for input
       Scanner keyboard = new Scanner(System.in);
@@ -40,6 +40,6 @@ public class BarChart {
       
       System.out.print(output);
       
-   }
+   } // Main method
    
-}
+} // End class

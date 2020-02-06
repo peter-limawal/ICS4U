@@ -1,0 +1,22 @@
+ ----jGRASP exec: java Population
+Enter starting size : 0
+
+ERROR! Minimum starting size is 2!
+Enter starting size : 2
+
+Enter average daily population increase (as a percentage) : -10
+
+ERROR! Average daily population increase cannot be less than 0!
+Enter average daily population increase (as a percentage) : 200
+
+Enter number of days they will multiply : 0
+
+ERROR! Number of days cannot be less than 1!
+Enter number of days they will multiply : 5
+
+Population in day 1 : 2
+Population in day 2 : 6
+Population in day 3 : 18
+Population in day 4 : 54
+Population in day 5 : 162
+ ----jGRASP: operation complete.

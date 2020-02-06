@@ -62,6 +62,6 @@ public class DistanceFile {
       
       out.close();
       
-   }
+   } // Main method
    
-}
+} // End class

@@ -1,0 +1,45 @@
+ ----jGRASP exec: java DiceGame
+
+Round 1:
+Computer wins: 1
+User wins : 0
+
+Round 2:
+Computer wins: 2
+User wins : 0
+
+Round 3:
+Computer wins: 3
+User wins : 0
+
+Round 4:
+Computer wins: 3
+User wins : 0
+
+Round 5:
+Computer wins: 3
+User wins : 1
+
+Round 6:
+Computer wins: 4
+User wins : 1
+
+Round 7:
+Computer wins: 4
+User wins : 1
+
+Round 8:
+Computer wins: 4
+User wins : 2
+
+Round 9:
+Computer wins: 4
+User wins : 3
+
+Round 10:
+Computer wins: 5
+User wins : 3
+
+Grand winner: Computer
+Congratulations!
+ ----jGRASP: operation complete.

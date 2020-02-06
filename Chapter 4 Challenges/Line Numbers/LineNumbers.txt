@@ -1,6 +1,10 @@
-The itsy bitsy spider climbed up the waterspout.
-Down came the rain
-and washed the spider out.
-Out came the sun
-and dried up all the rain
-and the itsy bitsy spider climbed up the spout again.
+ ----jGRASP exec: java LineNumbers
+Enter file name : Input.txt
+
+1: The itsy bitsy spider climbed up the waterspout.
+2: Down came the rain
+3: and washed the spider out.
+4: Out came the sun
+5: and dried up all the rain
+6: and the itsy bitsy spider climbed up the spout again.
+ ----jGRASP: operation complete.

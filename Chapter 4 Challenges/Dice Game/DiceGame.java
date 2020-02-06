@@ -44,6 +44,6 @@ public class DiceGame {
       // Output
       System.out.print("\nGrand winner: " + winner + "\nCongratulations!");
       
-   }
+   } // Main method
    
-}
+} // End class

@@ -44,6 +44,6 @@ public class UppercaseFileConverter {
       
       out.close();
       
-   }
+   } // Main method
    
-}
+} // End class
