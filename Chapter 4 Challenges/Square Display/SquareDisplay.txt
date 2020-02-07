@@ -1,17 +1,17 @@
  ----jGRASP exec: java SquareDisplay
-Enter number between and including 1 - 14 : 0
+Enter number between and including 1 - 15 : 0
 
-ERROR! Number is not between and including 1 - 14!
+ERROR! Number is not between and including 1 - 15!
  ----jGRASP: operation complete.
 
  ----jGRASP exec: java SquareDisplay
-Enter number between and including 1 - 14 : 20
+Enter number between and including 1 - 15 : 20
 
-ERROR! Number is not between and including 1 - 14!
+ERROR! Number is not between and including 1 - 15!
  ----jGRASP: operation complete.
 
  ----jGRASP exec: java SquareDisplay
-Enter number between and including 1 - 14 : 8
+Enter number between and including 1 - 15 : 8
 XXXXXXXX
 XXXXXXXX
 XXXXXXXX

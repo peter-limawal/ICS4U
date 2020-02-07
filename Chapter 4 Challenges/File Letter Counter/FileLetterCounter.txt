@@ -1,6 +1,6 @@
  ----jGRASP exec: java FileLetterCounter
-Please enter file name : Input.txt
-Please enter character : t
+Please enter file name : FLCInput.txt
+Please enter character : m
 
-Count : 6
+Count : 30
  ----jGRASP: operation complete.

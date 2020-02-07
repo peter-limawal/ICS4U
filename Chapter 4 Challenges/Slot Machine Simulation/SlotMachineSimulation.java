@@ -17,7 +17,7 @@ public class SlotMachineSimulation {
       double tally = 0;
       double initial = 0;
       int random;
-      String word ="";
+      String word = "";
       String object1 = "";
       String object2 = "";
       String object3 = "";
