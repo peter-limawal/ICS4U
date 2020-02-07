@@ -12,6 +12,7 @@ public class BarChart {
    public static void main(String[] args) {
       
       // Declaring variables
+      int numStores;
       int sales;
       int bar;
       String output = "\nSALES BAR CHART";
@@ -19,8 +20,22 @@ public class BarChart {
       // Scanner object for input
       Scanner keyboard = new Scanner(System.in);
       
+      // Obtaining number of stores input
+      System.out.print("Enter number of stores : ");
+      numStores = keyboard.nextInt();
+      
+      // Parameters
+      while (numStores <= 0) {
+         
+         // Reobtaining numStores input
+         System.out.print("\nERROR! Number of stores cannot be less than one!");
+         System.out.print("\nEnter number of stores : ");
+         numStores = keyboard.nextInt();
+         
+      }
+      
       // For loop
-      for (int i = 1; i <= 5; i++) {
+      for (int i = 1; i <= numStores; i++) {
          
          // Obtaining sales input
          System.out.printf("Enter today's sales for store %d: ", i);

@@ -1,4 +1,8 @@
  ----jGRASP exec: java BarChart
+Enter number of stores : 0
+
+ERROR! Number of stores cannot be less than one!
+Enter number of stores : 5
 Enter today's sales for store 1: 600
 Enter today's sales for store 2: 1600
 Enter today's sales for store 3: 2600
