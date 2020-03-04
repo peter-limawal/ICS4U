@@ -1,0 +1,27 @@
+ ----jGRASP exec: java RecursiveMultiplication
+Enter integer x : 7
+Enter integer y : 4
+
+7 * 4 = 28
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java RecursiveMultiplication
+Enter integer x : 10
+Enter integer y : 10
+
+10 * 10 = 100
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java RecursiveMultiplication
+Enter integer x : 5
+Enter integer y : 5
+
+5 * 5 = 25
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java RecursiveMultiplication
+Enter integer x : 314
+Enter integer y : 271
+
+314 * 271 = 85094
+ ----jGRASP: operation complete.

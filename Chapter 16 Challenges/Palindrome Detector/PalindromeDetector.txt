@@ -1,0 +1,29 @@
+ ----jGRASP exec: java PalindromeDetector
+Enter palindrome string : Able was I, ere I saw Elba
+Is palindrome!
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java PalindromeDetector
+Enter palindrome string : The quick brown fox jumps over the lazy dog
+Is not palindrome!
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java PalindromeDetector
+Enter palindrome string : A man, a plan, a canal, Panama
+Is palindrome!
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java PalindromeDetector
+Enter palindrome string : Desserts, I stressed
+Is palindrome!
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java PalindromeDetector
+Enter palindrome string : Mary had a little lamb
+Is not palindrome!
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java PalindromeDetector
+Enter palindrome string : Kayak
+Is palindrome!
+ ----jGRASP: operation complete.

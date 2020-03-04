@@ -1,0 +1,34 @@
+ ----jGRASP exec: java SumOfNumbers
+Enter number : 1
+The sum of numbers from 1 to 1 is 1
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java SumOfNumbers
+Enter number : 2
+The sum of numbers from 1 to 2 is 3
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java SumOfNumbers
+Enter number : 3
+The sum of numbers from 1 to 3 is 6
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java SumOfNumbers
+Enter number : 4
+The sum of numbers from 1 to 4 is 10
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java SumOfNumbers
+Enter number : 5
+The sum of numbers from 1 to 5 is 15
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java SumOfNumbers
+Enter number : 10
+The sum of numbers from 1 to 10 is 55
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java SumOfNumbers
+Enter number : 100
+The sum of numbers from 1 to 100 is 5050
+ ----jGRASP: operation complete.

@@ -1,0 +1,23 @@
+ ----jGRASP exec: java RecursivePowerMethod
+Enter number : 5
+Enter exponent : 3
+5 ^ 3 = 125
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java RecursivePowerMethod
+Enter number : 3
+Enter exponent : 3
+3 ^ 3 = 27
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java RecursivePowerMethod
+Enter number : 2
+Enter exponent : 11
+2 ^ 11 = 2048
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java RecursivePowerMethod
+Enter number : 5
+Enter exponent : 5
+5 ^ 5 = 3125
+ ----jGRASP: operation complete.

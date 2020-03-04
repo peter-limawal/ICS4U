@@ -1,0 +1,14 @@
+ ----jGRASP exec: java StringReverser
+Enter string : asdfghjk
+kjhgfdsa
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java StringReverser
+Enter string : the quick brown fox jumps over the lazy dog
+god yzal eht revo spmuj xof nworb kciuq eht
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java StringReverser
+Enter string : 123456789
+987654321
+ ----jGRASP: operation complete.

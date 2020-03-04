@@ -1,0 +1,41 @@
+ ----jGRASP exec: java AckermannsFunction
+Enter m : 0
+Enter n : 0
+The return value is 1
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java AckermannsFunction
+Enter m : 0
+Enter n : 1
+The return value is 2
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java AckermannsFunction
+Enter m : 1
+Enter n : 1
+The return value is 3
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java AckermannsFunction
+Enter m : 1
+Enter n : 2
+The return value is 4
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java AckermannsFunction
+Enter m : 1
+Enter n : 3
+The return value is 5
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java AckermannsFunction
+Enter m : 2
+Enter n : 2
+The return value is 7
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java AckermannsFunction
+Enter m : 3
+Enter n : 2
+The return value is 29
+ ----jGRASP: operation complete.
