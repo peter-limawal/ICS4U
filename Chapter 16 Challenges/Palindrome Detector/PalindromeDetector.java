@@ -24,14 +24,8 @@ public class PalindromeDetector {
       original = keyboard.nextLine();
       original = original.toLowerCase();
       
-      // Creating text string
-      for (int i = 0; i < original.length(); i++) {
-         
-         if (original.charAt(i) >= 'a' && original.charAt(i) <= 'z') {
-            text += original.charAt(i);
-         }
-         
-      }
+      // Calling remover method
+      text = remover(original);
       
       // Calling detector method
       verdict = detector(text);
@@ -45,10 +39,26 @@ public class PalindromeDetector {
       
    } // Main method
    
+   private static String remover(String original) {
+      
+      // Base case
+      if (original.length() == 0) {
+         return original;
+      }
+      
+      // Recursive case
+      if (original.charAt(0) >= 'a' && original.charAt(0) <= 'z') {
+         return original.charAt(0) + remover(original.substring(1));
+      } else {
+         return remover(original.substring(1));
+      }
+      
+   } // remover method
+   
    private static boolean detector(String input) {
       
       // Base case
-      if (input.length() == 0 || input.length() == 1) {
+      if (input.length() <= 1) {
          return true;
       } else if (input.charAt(0) != input.charAt(input.length()-1)) {
          return false;

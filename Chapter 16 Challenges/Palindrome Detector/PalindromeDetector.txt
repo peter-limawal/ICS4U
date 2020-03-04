@@ -27,3 +27,8 @@ Is not palindrome!
 Enter palindrome string : Kayak
 Is palindrome!
  ----jGRASP: operation complete.
+
+ ----jGRASP exec: java PalindromeDetector
+Enter palindrome string : Are we not pure? “No, sir!” Panama’s moody Noriega brags. “It is garbage!” Irony dooms a man—a prisoner up to new era.
+Is palindrome!
+ ----jGRASP: operation complete.
