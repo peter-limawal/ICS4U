@@ -1,0 +1,22 @@
+ ----jGRASP exec: java EmployeeClass
+Enter name : Susan Meyers
+Enter idNumber : 47899
+Enter department : Accounting
+Enter position : Vice President
+
+Name : Susan Meyers
+ID number : 47899
+Department : Accounting
+Position : Vice President
+
+Name : Mark Jones
+ID number : 39119
+Department : IT
+Position : Programmer
+
+Name : Joy Rogers
+ID number : 81774
+Department : Manufacturing
+Position : Engineer
+
+ ----jGRASP: operation complete.

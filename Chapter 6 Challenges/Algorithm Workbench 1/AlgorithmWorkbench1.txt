@@ -1,0 +1,9 @@
+ ----jGRASP exec: java AlgorithmWorkbench1
+Enter pet name : Randy
+Enter animal type : Chicken
+Enter pet age : 5
+
+Randy, Chicken, 5
+Stephen, Sheep, 17
+Dave, Rock, 10
+ ----jGRASP: operation complete.

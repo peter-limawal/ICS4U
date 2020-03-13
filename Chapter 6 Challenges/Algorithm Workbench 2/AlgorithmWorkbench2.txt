@@ -1,0 +1,10 @@
+ ----jGRASP exec: java AlgorithmWorkbench2
+Enter book title : Harry Potter and The Chamber of Secrets
+Enter book author : J.K. Rowling
+Enter book publisher : Bloomsbury
+Enter number of copies sold : 500
+
+Harry Potter and The Philosopher's Stone, J.K. Rowling, Bloomsbury, 500
+Harry Potter and The Chamber of Secrets, J.K. Rowling, Bloomsbury, 500
+Harry Potter and The Prisoner of Azkaban, J.K. Rowling, Bloomsbury, 500
+ ----jGRASP: operation complete.
