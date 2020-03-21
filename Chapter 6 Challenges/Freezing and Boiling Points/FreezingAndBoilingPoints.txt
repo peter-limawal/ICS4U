@@ -1,0 +1,29 @@
+ ----jGRASP exec: java FreezingAndBoilingPoints
+Enter a temperature in Fahrenheit : -20
+Substances that will freeze: water 
+Substances that will boil: oxygen 
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java FreezingAndBoilingPoints
+Enter a temperature in Fahrenheit : 212
+Substances that will freeze:
+Substances that will boil: ethyl  oxygen  water 
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java FreezingAndBoilingPoints
+Enter a temperature in Fahrenheit : -362
+Substances that will freeze: ethyl  oxygen  water 
+Substances that will boil:
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java FreezingAndBoilingPoints
+Enter a temperature in Fahrenheit : 16
+Substances that will freeze: water 
+Substances that will boil: oxygen 
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java FreezingAndBoilingPoints
+Enter a temperature in Fahrenheit : 148
+Substances that will freeze:
+Substances that will boil: oxygen 
+ ----jGRASP: operation complete.

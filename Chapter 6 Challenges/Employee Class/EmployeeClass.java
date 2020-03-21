@@ -17,7 +17,7 @@ public class EmployeeClass {
       String department;
       String position;
       
-      // Creating object
+      // Creating objects
       Employee a = new Employee();
       Employee b = new Employee("Mark Jones", 39119, "IT", "Programmer");
       Employee c = new Employee("Joy Rogers", 81774);

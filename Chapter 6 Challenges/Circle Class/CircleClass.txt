@@ -1,0 +1,17 @@
+ ----jGRASP exec: java CircleClass
+Enter circle radius : 10
+
+The circle's area is: 314.16 cm^2
+The circle's diameter is: 20.00 cm
+The circle's circumference is: 62.83 cm
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java CircleClass
+Enter circle radius : 2.71
+
+The circle's area is: 23.07 cm^2
+The circle's diameter is: 5.42 cm
+The circle's circumference is: 17.03 cm
+
+ ----jGRASP: operation complete.

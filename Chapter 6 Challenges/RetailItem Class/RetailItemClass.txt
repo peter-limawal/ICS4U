@@ -1,0 +1,18 @@
+ ----jGRASP exec: java RetailItemClass
+Enter description : Shirt
+Enter units on hand : 20
+Enter price : 24.95
+
+Description: Jacket
+Units on Hand: 12
+Price: $59.95
+
+Description: Designer Jeans
+Units on Hand: 40
+Price: $34.95
+
+Description: Shirt
+Units on Hand: 20
+Price: $24.95
+
+ ----jGRASP: operation complete.

@@ -1,0 +1,23 @@
+ ----jGRASP exec: java TemperatureClass
+Enter a temperature in Fahrenheit : 42
+
+The temperature in Celcius is: 5.56
+The temperature in Kelvin is: 278.56
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java TemperatureClass
+Enter a temperature in Fahrenheit : 72
+
+The temperature in Celcius is: 22.22
+The temperature in Kelvin is: 295.22
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java TemperatureClass
+Enter a temperature in Fahrenheit : 0
+
+The temperature in Celcius is: -17.78
+The temperature in Kelvin is: 255.22
+
+ ----jGRASP: operation complete.

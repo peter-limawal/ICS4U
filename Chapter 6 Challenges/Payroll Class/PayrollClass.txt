@@ -1,0 +1,15 @@
+ ----jGRASP exec: java PayrollClass
+Enter hourly pay rate for Ray : 10.5
+Enter number for hours worked for Ray : 110
+Enter hourly pay rate for Michael : 500
+Enter number for hours worked for Michael : 110
+
+Name: Ray
+ID Number: 20XX08XX01
+Gross Pay: $1155.0
+
+Name: Michael
+ID Number: 20XX08XX18
+Gross Pay: $55000.0
+
+ ----jGRASP: operation complete.
