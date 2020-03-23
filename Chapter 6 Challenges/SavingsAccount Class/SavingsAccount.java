@@ -4,24 +4,21 @@ public class SavingsAccount {
    private double annualInterest;
    private double balance;
    
-   public SavingsAccount(double a, double b) {
+   public SavingsAccount(double a) {
       
       balance = a;
-      annualInterest = b;
       
    } // Basic constructor
    
-   public SavingsAccount(String a, String b) {
+   public SavingsAccount(String a) {
       
       balance = Double.parseDouble(a);
-      annualInterest = Double.parseDouble(b);
       
    } // Modified constructor
    
    public SavingsAccount() {
       
       balance = 0;
-      annualInterest = 0;
       
    } // No arg constructor
    

@@ -33,7 +33,10 @@ public class SavingsAccountClass {
       numOfMonths = keyboard.nextInt();
       
       // Creating object
-      SavingsAccount a = new SavingsAccount(balance, annualInterest);
+      SavingsAccount a = new SavingsAccount(balance);
+      
+      // annualInterest mutator
+      a.setAnnualInterest(annualInterest);
       
       // For loop
       for (int i = 1; i <= numOfMonths; i++) {

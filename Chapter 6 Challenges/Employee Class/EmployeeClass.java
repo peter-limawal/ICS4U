@@ -25,7 +25,7 @@ public class EmployeeClass {
       // Calling setter method
       setter(a);
       
-      // Calling mutators for object b
+      // Calling mutators for object c
       c.setDepartment("Manufacturing");
       c.setPosition("Engineer");
       
