@@ -4,21 +4,24 @@ public class SavingsAccount {
    private double annualInterest;
    private double balance;
    
-   public SavingsAccount(double a) {
+   public SavingsAccount(double a, double b) {
       
       balance = a;
+      annualInterest = b;
       
    } // Basic constructor
    
-   public SavingsAccount(String a) {
+   public SavingsAccount(String a, String b) {
       
       balance = Double.parseDouble(a);
+      annualInterest = Double.parseDouble(b);
       
    } // Modified constructor
    
    public SavingsAccount() {
       
       balance = 0;
+      annualInterest = 0;
       
    } // No arg constructor
    
@@ -46,10 +49,52 @@ public class SavingsAccount {
       
    } // String deposit method
    
-   public void monthlyInterest() {
+   public double getMonthlyInterest() {
+      
+      return ((annualInterest / 12) / 100) * balance;
+      
+   } // getMonthlyInterest method
+   
+   public void addMonthlyInterest() {
       
       balance += ((annualInterest / 12) / 100) * balance;
       
-   } // monthlyInterest method
+   } // addMonthlyInterest method
+   
+   public void setBalance(double a) {
+      
+      balance = a;
+      
+   } // double balance mutator
+   
+   public void setBalance(String a) {
+      
+      balance = Double.parseDouble(a);
+      
+   } // String balance mutator
+   
+   public void setAnnualInterest(double b) {
+      
+      annualInterest = b;
+      
+   } // double annualInterest mutator
+   
+   public void setAnnualInterest(String b) {
+      
+      annualInterest = Double.parseDouble(b);
+      
+   } // String annualInterest mutator
+   
+   public double getBalance() {
+      
+      return balance;
+      
+   } // balance accessor
+   
+   public double getAnnualInterest() {
+      
+      return annualInterest;
+      
+   } // annualInterest accessor
    
 } // End class
