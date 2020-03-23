@@ -15,5 +15,5 @@ How much did you withdraw during month 3? : $50
 Ending balance: $1,163.81
 Total amount of deposits: $300.00
 Total amount of withdrawals: $150.00
-Total interest earned: $13.86
+Total interest earned: $13.81
  ----jGRASP: operation complete.

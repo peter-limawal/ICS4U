@@ -2,16 +2,16 @@
 Enter car year model : 2020
 Enter car make : Porsche
 Accelerating:
-The car's speed is 5 km/h
-The car's speed is 10 km/h
-The car's speed is 15 km/h
-The car's speed is 20 km/h
-The car's speed is 25 km/h
+The 2020 Porsche's speed is 5 km/h
+The 2020 Porsche's speed is 10 km/h
+The 2020 Porsche's speed is 15 km/h
+The 2020 Porsche's speed is 20 km/h
+The 2020 Porsche's speed is 25 km/h
 Braking:
-The car's speed is 20 km/h
-The car's speed is 15 km/h
-The car's speed is 10 km/h
-The car's speed is 5 km/h
-The car's speed is 0 km/h
+The 2020 Porsche's speed is 20 km/h
+The 2020 Porsche's speed is 15 km/h
+The 2020 Porsche's speed is 10 km/h
+The 2020 Porsche's speed is 5 km/h
+The 2020 Porsche's speed is 0 km/h
 
  ----jGRASP: operation complete.

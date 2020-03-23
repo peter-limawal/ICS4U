@@ -48,13 +48,13 @@ public class SavingsAccount {
    
    public double getMonthlyInterest() {
       
-      return ((annualInterest / 12) / 100) * balance;
+      return ((annualInterest / 12.0) / 100.0) * balance;
       
    } // getMonthlyInterest method
    
    public void addMonthlyInterest() {
       
-      balance += ((annualInterest / 12) / 100) * balance;
+      balance += getMonthlyInterest();
       
    } // addMonthlyInterest method
    

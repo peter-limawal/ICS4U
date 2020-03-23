@@ -46,7 +46,7 @@ public class CarClass {
          x.accelerate();
          
          // Accessing car speed
-         System.out.println("The car's speed is " + x.getSpeed() +" km/h");
+         System.out.println("The " + x.getYearModel() + " " + x.getMake() + "'s speed is " + x.getSpeed() +" km/h");
       }
       
    } // accelerate method
@@ -61,7 +61,7 @@ public class CarClass {
          x.brake();
          
          // Accessing car speed
-         System.out.println("The car's speed is " + x.getSpeed() +" km/h");
+         System.out.println("The " + x.getYearModel() + " " + x.getMake() + "'s speed is " + x.getSpeed() +" km/h");
       }
       
    } // brake method

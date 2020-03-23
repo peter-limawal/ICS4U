@@ -54,8 +54,8 @@ public class SavingsAccountClass {
          a.withdraw(withdraw);
          
          // Calculating monthly interest
-         a.addMonthlyInterest();
          sumInterest += a.getMonthlyInterest();
+         a.addMonthlyInterest();
          
       }
       
