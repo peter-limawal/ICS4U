@@ -1,0 +1,7 @@
+ ----jGRASP exec: java DepositAndWithdrawalFiles
+Enter annual interest rate : 12
+Enter starting balance : $500.00
+
+Ending balance: $616.27
+Total interest earned: $6.10
+ ----jGRASP: operation complete.
