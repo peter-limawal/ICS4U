@@ -1,0 +1,21 @@
+ ----jGRASP exec: java RainfallClass
+Enter rainfall for month 1 (in mm) : 60.3
+Enter rainfall for month 2 (in mm) : 93.3
+Enter rainfall for month 3 (in mm) : 79.4
+Enter rainfall for month 4 (in mm) : 56.0
+Enter rainfall for month 5 (in mm) : 50.6
+Enter rainfall for month 6 (in mm) : 59.1
+Enter rainfall for month 7 (in mm) : 30.1
+Enter rainfall for month 8 (in mm) : 132.5
+Enter rainfall for month 9 (in mm) : 34.4
+Enter rainfall for month 10 (in mm) : 44.1
+Enter rainfall for month 11 (in mm) : 78.8
+Enter rainfall for month 12 (in mm) : -22.7
+ERROR! Value of rainfall cannot be negative!
+Enter rainfall for month 12 (in mm) : 22.7
+
+Total rainfall for the year: 741.30 mm
+Average monthly rainfall for the year: 61.78 mm
+Month with the most rain: Month 8
+Month with the least rain: Month 12
+ ----jGRASP: operation complete.

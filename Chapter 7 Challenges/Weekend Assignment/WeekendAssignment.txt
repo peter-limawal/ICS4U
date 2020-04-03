@@ -1,0 +1,53 @@
+ ----jGRASP exec: java WeekendAssignment
+80 19 69 10 61 89 22 93 36 85 
+11 2 68 79 17 37 17 62 46 4 
+96 68 42 43 34 67 62 44 40 19 
+36 63 37 10 32 16 34 89 71 59 
+31 67 95 90 9 70 69 84 31 48 
+3 41 5 90 25 5 79 44 2 77 
+40 44 91 40 32 36 31 70 91 89 
+39 33 94 89 45 5 38 97 8 99 
+50 72 0 15 71 62 88 4 26 83 
+58 52 77 14 20 67 85 59 1 19 
+
+The max value in the array is 99
+The min value in the array is 0
+The sum of all the values in the array is 4868
+The average of all the values in the array is 48.68
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java WeekendAssignment
+17 4 26 31 45 81 72 76 28 27 
+91 45 89 23 61 0 90 81 66 57 
+7 6 98 80 66 11 69 37 43 54 
+14 74 87 45 1 90 84 27 62 3 
+11 99 39 55 26 94 0 95 35 40 
+13 45 31 57 73 77 38 49 94 76 
+41 16 9 85 21 4 18 21 59 77 
+94 34 72 6 27 6 3 50 98 78 
+83 90 10 0 91 0 62 32 68 7 
+61 96 29 30 63 59 93 68 97 77 
+
+The max value in the array is 99
+The min value in the array is 0
+The sum of all the values in the array is 4950
+The average of all the values in the array is 49.5
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java WeekendAssignment
+18 7 81 95 87 56 61 6 71 70 
+38 4 98 97 55 82 5 81 98 94 
+45 76 43 40 96 2 75 93 42 41 
+7 35 86 16 88 82 62 33 74 93 
+54 83 70 6 97 65 56 52 24 17 
+37 31 68 96 0 94 45 96 33 74 
+57 40 90 89 45 53 91 61 51 54 
+30 36 45 9 57 86 10 96 85 59 
+69 59 77 66 8 55 83 7 3 3 
+45 29 1 89 98 65 77 1 54 71 
+
+The max value in the array is 98
+The min value in the array is 0
+The sum of all the values in the array is 5535
+The average of all the values in the array is 55.35
+ ----jGRASP: operation complete.

@@ -1,0 +1,42 @@
+ ----jGRASP exec: java PayrollClass
+Enter employee 5658845's hours : 5
+Enter employee 5658845's pay rate : $18.00
+Enter employee 4520125's hours : -10
+ERROR! Employee hours cannot be negative!
+Enter employee 4520125's hours : 0
+Enter employee 4520125's pay rate : $500.00
+Enter employee 7895122's hours : 20
+Enter employee 7895122's pay rate : $5.50
+ERROR! Employee pay rate cannot be less than $6.00!
+Enter employee 7895122's pay rate : $6.00
+Enter employee 8777541's hours : 168
+Enter employee 8777541's pay rate : $15.00
+Enter employee 8451277's hours : 60
+Enter employee 8451277's pay rate : $10.00
+Enter employee 1302850's hours : 63
+Enter employee 1302850's pay rate : $3000.00
+Enter employee 7580489's hours : 50
+Enter employee 7580489's pay rate : $400.00
+
+Employee ID number: 5658845
+Employee gross wage: $90.00
+
+Employee ID number: 4520125
+Employee gross wage: $0.00
+
+Employee ID number: 7895122
+Employee gross wage: $120.00
+
+Employee ID number: 8777541
+Employee gross wage: $2,520.00
+
+Employee ID number: 8451277
+Employee gross wage: $600.00
+
+Employee ID number: 1302850
+Employee gross wage: $189,000.00
+
+Employee ID number: 7580489
+Employee gross wage: $20,000.00
+
+ ----jGRASP: operation complete.
