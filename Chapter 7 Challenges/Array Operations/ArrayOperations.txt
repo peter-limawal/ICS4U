@@ -1,0 +1,20 @@
+ ----jGRASP exec: java ArrayOperations
+The sum of the values in the array is 18051
+The average of the values in the array is about 90.26
+The highest value in the array is 198
+The lowest value in the array is 1
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java ArrayOperations
+The sum of the values in the array is 19679
+The average of the values in the array is about 98.40
+The highest value in the array is 199
+The lowest value in the array is 2
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java ArrayOperations
+The sum of the values in the array is 20086
+The average of the values in the array is about 100.43
+The highest value in the array is 199
+The lowest value in the array is 0
+ ----jGRASP: operation complete.

@@ -1,0 +1,29 @@
+ ----jGRASP exec: java DriversLicenseExam
+Enter answer (A/B/C/D) for Q1 : B
+Enter answer (A/B/C/D) for Q2 : D
+Enter answer (A/B/C/D) for Q3 : A
+Enter answer (A/B/C/D) for Q4 : A
+Enter answer (A/B/C/D) for Q5 : C
+Enter answer (A/B/C/D) for Q6 : A
+Enter answer (A/B/C/D) for Q7 : B
+Enter answer (A/B/C/D) for Q8 : A
+Enter answer (A/B/C/D) for Q9 : C
+Enter answer (A/B/C/D) for Q10 : D
+Enter answer (A/B/C/D) for Q11 : E
+ERROR! The only answers are A/B/C/D!
+Enter answer (A/B/C/D) for Q11 : B
+Enter answer (A/B/C/D) for Q12 : B
+Enter answer (A/B/C/D) for Q13 : D
+Enter answer (A/B/C/D) for Q14 : A
+Enter answer (A/B/C/D) for Q15 : A
+Enter answer (A/B/C/D) for Q16 : C
+Enter answer (A/B/C/D) for Q17 : C
+Enter answer (A/B/C/D) for Q18 : A
+Enter answer (A/B/C/D) for Q19 : B
+Enter answer (A/B/C/D) for Q20 : C
+
+Total correct answers: 15
+Total wrong answers: 5
+Wrong questions: Q12 Q15 Q18 Q19 Q20 
+Test result: PASS
+ ----jGRASP: operation complete.
