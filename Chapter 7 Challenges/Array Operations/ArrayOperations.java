@@ -60,7 +60,7 @@ public class ArrayOperations {
    private static int getHighest(int[] x) {
       
       // Declaring variable
-      int max = -1;
+      int max = x[0];
       
       // Finding maximum value
       for (int i = 0; i < x.length; i++) {
@@ -77,7 +77,7 @@ public class ArrayOperations {
    private static int getLowest(int[] x) {
       
       // Declaring variable
-      int min = 9999;
+      int min = x[0];
       
       // Finding minimum value
       for (int i = 0; i < x.length; i++) {
