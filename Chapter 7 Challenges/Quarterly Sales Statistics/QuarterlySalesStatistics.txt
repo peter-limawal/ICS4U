@@ -1,0 +1,122 @@
+ ----jGRASP exec: java QuarterlySalesStatistics
+Enter Quarter sales for 1 Division 1 : $300000
+Enter Quarter sales for 1 Division 2 : $400000
+Enter Quarter sales for 1 Division 3 : $500000
+Enter Quarter sales for 1 Division 4 : $600000
+Enter Quarter sales for 1 Division 5 : $700000
+Enter Quarter sales for 1 Division 6 : $800000
+
+Enter Quarter sales for 2 Division 1 : $500000
+Enter Quarter sales for 2 Division 2 : $600000
+Enter Quarter sales for 2 Division 3 : $700000
+Enter Quarter sales for 2 Division 4 : $800000
+Enter Quarter sales for 2 Division 5 : $900000
+Enter Quarter sales for 2 Division 6 : $1000000
+
+Enter Quarter sales for 3 Division 1 : $900000
+Enter Quarter sales for 3 Division 2 : $700000
+Enter Quarter sales for 3 Division 3 : $600000
+Enter Quarter sales for 3 Division 4 : $400000
+Enter Quarter sales for 3 Division 5 : $1300000
+Enter Quarter sales for 3 Division 6 : $1200000
+
+Enter Quarter sales for 4 Division 1 : $800000
+Enter Quarter sales for 4 Division 2 : $900000
+Enter Quarter sales for 4 Division 3 : $1100000
+Enter Quarter sales for 4 Division 4 : $1200000
+Enter Quarter sales for 4 Division 5 : $1400000
+Enter Quarter sales for 4 Division 6 : $1300000
+
+
+Data for quarter 1
+
+Sales figures in Q1 for division 1: $300,000.00
+Sales figures in Q1 for division 2: $400,000.00
+Sales figures in Q1 for division 3: $500,000.00
+Sales figures in Q1 for division 4: $600,000.00
+Sales figures in Q1 for division 5: $700,000.00
+Sales figures in Q1 for division 6: $800,000.00
+
+Total sales for Q1: $3,300,000.00
+
+Average sales for all divisions in Q1: $550,000.00
+
+Division with the highest sales in Q1: Division 6
+
+________________________________________________
+Data for quarter 2
+
+Sales figures in Q2 for division 1: $500,000.00
+Sales figures in Q2 for division 2: $600,000.00
+Sales figures in Q2 for division 3: $700,000.00
+Sales figures in Q2 for division 4: $800,000.00
+Sales figures in Q2 for division 5: $900,000.00
+Sales figures in Q2 for division 6: $1,000,000.00
+
+Division 1's difference between Q1 and Q2: $200,000.00
+Division 2's difference between Q1 and Q2: $200,000.00
+Division 3's difference between Q1 and Q2: $200,000.00
+Division 4's difference between Q1 and Q2: $200,000.00
+Division 5's difference between Q1 and Q2: $200,000.00
+Division 6's difference between Q1 and Q2: $200,000.00
+
+Total sales for Q2: $4,500,000.00
+
+Total difference between Q1 and Q2: $1,200,000.00
+
+Average sales for all divisions in Q2: $750,000.00
+
+Division with the highest sales in Q2: Division 6
+
+________________________________________________
+Data for quarter 3
+
+Sales figures in Q3 for division 1: $900,000.00
+Sales figures in Q3 for division 2: $700,000.00
+Sales figures in Q3 for division 3: $600,000.00
+Sales figures in Q3 for division 4: $400,000.00
+Sales figures in Q3 for division 5: $1,300,000.00
+Sales figures in Q3 for division 6: $1,200,000.00
+
+Division 1's difference between Q2 and Q3: $400,000.00
+Division 2's difference between Q2 and Q3: $100,000.00
+Division 3's difference between Q2 and Q3: $-100,000.00
+Division 4's difference between Q2 and Q3: $-400,000.00
+Division 5's difference between Q2 and Q3: $400,000.00
+Division 6's difference between Q2 and Q3: $200,000.00
+
+Total sales for Q3: $5,100,000.00
+
+Total difference between Q2 and Q3: $600,000.00
+
+Average sales for all divisions in Q3: $850,000.00
+
+Division with the highest sales in Q3: Division 5
+
+________________________________________________
+Data for quarter 4
+
+Sales figures in Q4 for division 1: $800,000.00
+Sales figures in Q4 for division 2: $900,000.00
+Sales figures in Q4 for division 3: $1,100,000.00
+Sales figures in Q4 for division 4: $1,200,000.00
+Sales figures in Q4 for division 5: $1,400,000.00
+Sales figures in Q4 for division 6: $1,300,000.00
+
+Division 1's difference between Q3 and Q4: $-100,000.00
+Division 2's difference between Q3 and Q4: $200,000.00
+Division 3's difference between Q3 and Q4: $500,000.00
+Division 4's difference between Q3 and Q4: $800,000.00
+Division 5's difference between Q3 and Q4: $100,000.00
+Division 6's difference between Q3 and Q4: $100,000.00
+
+Total sales for Q4: $6,700,000.00
+
+Total difference between Q3 and Q4: $1,600,000.00
+
+Average sales for all divisions in Q4: $1,116,666.67
+
+Division with the highest sales in Q4: Division 5
+
+________________________________________________
+ ----jGRASP: operation complete.
