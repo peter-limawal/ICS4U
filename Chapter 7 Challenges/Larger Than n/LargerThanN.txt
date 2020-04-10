@@ -1,0 +1,14 @@
+ ----jGRASP exec: java LargerThanN
+The value of n is: 70
+The numbers in the array greater than n are: 82 100 93 84 80 88 
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java LargerThanN
+The value of n is: 29
+The numbers in the array greater than n are: 85 30 50 74 40 94 59 61 49 83 95 90 77 84 
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java LargerThanN
+The value of n is: 54
+The numbers in the array greater than n are: 88 66 71 69 88 82 88 78 68 64 81 
+ ----jGRASP: operation complete.
