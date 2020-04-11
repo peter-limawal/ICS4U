@@ -1,0 +1,26 @@
+ ----jGRASP exec: java TwoDArrayOperations
+The sum of the values in the array is 5012
+The average of the values in the array is about 501.20
+The sum of the values in row 1 is 471
+The sum of the values in column 9 is 522
+The highest value in row 1 is 88
+The lowest value in row 1 is 5
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java TwoDArrayOperations
+The sum of the values in the array is 5153
+The average of the values in the array is about 515.30
+The sum of the values in row 2 is 500
+The sum of the values in column 4 is 384
+The highest value in row 8 is 96
+The lowest value in row 8 is 10
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java TwoDArrayOperations
+The sum of the values in the array is 5084
+The average of the values in the array is about 508.40
+The sum of the values in row 2 is 522
+The sum of the values in column 10 is 515
+The highest value in row 10 is 80
+The lowest value in row 10 is 7
+ ----jGRASP: operation complete.

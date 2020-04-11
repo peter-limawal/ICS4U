@@ -25,7 +25,13 @@ public class LargerThanN {
       largerNumbers = largerN(numbers, n);
       
       // Output
-      System.out.printf("The value of n is: %d", n);
+      System.out.print("The array is : ");
+      
+      for (int x = 0; x < numbers.length; x++) {
+         System.out.print(numbers[x] + " ");
+      }
+      
+      System.out.printf("\nThe value of n is: %d", n);
       System.out.print("\nThe numbers in the array greater than n are: ");
       for (int j = 0; j < largerNumbers.length; j++) {
          if (largerNumbers[j] != 0) {

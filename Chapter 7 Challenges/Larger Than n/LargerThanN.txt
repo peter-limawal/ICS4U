@@ -1,14 +1,17 @@
  ----jGRASP exec: java LargerThanN
-The value of n is: 70
-The numbers in the array greater than n are: 82 100 93 84 80 88 
+The array is : 22 1 15 99 15 49 80 67 8 59 12 13 83 49 45 66 66 14 99 20 
+The value of n is: 45
+The numbers in the array greater than n are: 99 49 80 67 59 83 49 66 66 99 
  ----jGRASP: operation complete.
 
  ----jGRASP exec: java LargerThanN
-The value of n is: 29
-The numbers in the array greater than n are: 85 30 50 74 40 94 59 61 49 83 95 90 77 84 
+The array is : 36 66 82 89 35 69 51 29 74 1 9 68 13 9 47 45 67 82 95 28 
+The value of n is: 13
+The numbers in the array greater than n are: 36 66 82 89 35 69 51 29 74 68 47 45 67 82 95 28 
  ----jGRASP: operation complete.
 
  ----jGRASP exec: java LargerThanN
-The value of n is: 54
-The numbers in the array greater than n are: 88 66 71 69 88 82 88 78 68 64 81 
+The array is : 52 21 13 58 42 39 98 73 66 35 46 88 9 79 21 89 99 78 37 14 
+The value of n is: 36
+The numbers in the array greater than n are: 52 58 42 39 98 73 66 46 88 79 89 99 78 37 
  ----jGRASP: operation complete.
