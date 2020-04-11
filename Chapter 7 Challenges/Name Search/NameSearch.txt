@@ -1,0 +1,29 @@
+ ----jGRASP exec: java NameSearch
+What gender's name would you like to check (girl/boy/both) : girl
+Please enter name to be checked : Ashley
+
+The name Ashley is in the top 200 girl names list!
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java NameSearch
+What gender's name would you like to check (girl/boy/both) : boy
+Please enter name to be checked : Pablo
+
+The name Pablo is not in the top 200 for both girl and boy names lists!
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java NameSearch
+What gender's name would you like to check (girl/boy/both) : both
+Please enter name to be checked : Andrew
+
+The name Andrew is in the top 200 boy names list!
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java NameSearch
+What gender's name would you like to check (girl/boy/both) : none
+ERROR! The database only contains girl and boy names!
+What gender's name would you like to check (girl/boy/both) : both
+Please enter name to be checked : Jennifer
+
+The name Jennifer is in the top 200 girl names list!
+ ----jGRASP: operation complete.
