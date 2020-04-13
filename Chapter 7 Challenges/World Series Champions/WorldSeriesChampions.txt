@@ -1,0 +1,17 @@
+ ----jGRASP exec: java WorldSeriesChampions
+Enter team name : Toronto Blue Jays
+Team Toronto Blue Jays has won the World Series 2 times*!
+*From 1903 to 2009
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java WorldSeriesChampions
+Enter team name : Boston Red Sox
+Team Boston Red Sox has won the World Series 6 times*!
+*From 1903 to 2009
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java WorldSeriesChampions
+Enter team name : New York Yankees
+Team New York Yankees has won the World Series 26 times*!
+*From 1903 to 2009
+ ----jGRASP: operation complete.

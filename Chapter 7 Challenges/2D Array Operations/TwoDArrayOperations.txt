@@ -1,26 +1,41 @@
  ----jGRASP exec: java TwoDArrayOperations
-The sum of the values in the array is 5012
-The average of the values in the array is about 501.20
-The sum of the values in row 1 is 471
-The sum of the values in column 9 is 522
-The highest value in row 1 is 88
-The lowest value in row 1 is 5
+The array is :
+10 84 68 47 57 18 1 84 65 99 
+34 19 39 70 78 10 9 13 67 56 
+47 54 4 42 51 81 29 21 93 86 
+62 23 66 69 14 48 18 53 12 7 
+89 18 98 52 44 60 73 49 85 44 
+21 30 73 31 95 82 22 36 15 11 
+45 82 98 54 95 88 46 10 46 67 
+6 77 73 73 14 92 20 83 10 27 
+64 67 72 55 17 65 27 5 25 49 
+27 83 99 19 46 22 61 62 32 35 
+
+The sum of the values in the array is 4874
+The average of the values in the array is about 487.40
+The sum of the values in row 8 is 475
+The sum of the values in column 8 is 416
+The highest value in row 8 is 92
+The lowest value in row 8 is 6
  ----jGRASP: operation complete.
 
  ----jGRASP exec: java TwoDArrayOperations
-The sum of the values in the array is 5153
-The average of the values in the array is about 515.30
-The sum of the values in row 2 is 500
-The sum of the values in column 4 is 384
-The highest value in row 8 is 96
-The lowest value in row 8 is 10
- ----jGRASP: operation complete.
+The array is :
+80 97 53 99 89 11 95 18 52 34 
+24 49 45 1 0 25 19 44 39 60 
+95 15 60 20 22 18 86 45 88 21 
+93 28 22 89 33 4 75 83 64 62 
+83 29 59 38 50 61 82 73 21 53 
+83 30 31 4 38 64 88 88 93 44 
+46 40 98 62 28 93 94 57 4 39 
+6 31 38 53 44 26 61 82 36 86 
+30 63 36 48 21 96 17 36 56 98 
+56 72 25 10 20 63 56 22 18 59 
 
- ----jGRASP exec: java TwoDArrayOperations
-The sum of the values in the array is 5084
-The average of the values in the array is about 508.40
-The sum of the values in row 2 is 522
-The sum of the values in column 10 is 515
-The highest value in row 10 is 80
-The lowest value in row 10 is 7
+The sum of the values in the array is 4995
+The average of the values in the array is about 499.50
+The sum of the values in row 2 is 306
+The sum of the values in column 7 is 673
+The highest value in row 7 is 98
+The lowest value in row 7 is 4
  ----jGRASP: operation complete.

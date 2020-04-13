@@ -20,7 +20,16 @@ public class TwoDArrayOperations {
       }
       
       // Output
-      System.out.printf("The sum of the values in the array is %d", getTotal(testData));
+      System.out.print("The array is :");
+      
+      for (int row = 0; row < testData.length; row++) {
+         System.out.println();
+         for (int col = 0; col < testData.length; col++) {
+            System.out.print(testData[row][col] + " ");
+         }
+      }
+      
+      System.out.printf("\n\nThe sum of the values in the array is %d", getTotal(testData));
       System.out.printf("\nThe average of the values in the array is about %.2f", getAverage(testData));
       int random = (int)(Math.random() * 10);
       System.out.printf("\nThe sum of the values in row %d is %d", random + 1, getRowTotal(testData, random));
