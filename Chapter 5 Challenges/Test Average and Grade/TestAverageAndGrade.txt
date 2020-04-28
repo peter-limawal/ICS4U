@@ -1,0 +1,17 @@
+ ----jGRASP exec: java TestAverageAndGrade
+Enter first score : 97
+Enter second score : 99
+Enter third score : 98
+Enter fourth score : 99
+Enter fifth score : 99
+
+	Score		Grade
+-------------------------------------
+	 97.0		  A
+	 99.0		  A
+	 98.0		  A
+	 99.0		  A
+	 99.0		  A
+Average score : 98.40
+Average grade : A
+ ----jGRASP: operation complete.

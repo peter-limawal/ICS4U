@@ -1,0 +1,6 @@
+ ----jGRASP exec: java KineticEnergy
+Enter mass in kg : 80
+Enter velocity in m/s : 10
+
+The kinetic energy is 4000.00 J
+ ----jGRASP: operation complete.

@@ -1,0 +1,14 @@
+ ----jGRASP exec: java FallingDistance
+	Time (s)	Distance (m)
+--------------------------------------------
+	1		4.90
+	2		19.60
+	3		44.10
+	4		78.40
+	5		122.50
+	6		176.40
+	7		240.10
+	8		313.60
+	9		396.90
+	10		490.00
+ ----jGRASP: operation complete.

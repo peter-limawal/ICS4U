@@ -1,0 +1,8 @@
+ ----jGRASP exec: java AreaRectangle
+Enter length of rectangle (cm) : 369
+Enter width of rectangle (cm) : 31.415
+
+Length of rectangle : 369.00 cm
+Width of rectangle : 31.42 cm
+Area of rectangle : 11592.14 cm^2
+ ----jGRASP: operation complete.

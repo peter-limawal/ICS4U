@@ -1,0 +1,21 @@
+ ----jGRASP exec: java isPrimeMethod
+Enter number to check for prime : -5
+ERROR! The smallest prime is 2!
+Enter number to check for prime : 0
+ERROR! The smallest prime is 2!
+Enter number to check for prime : 2
+
+2 is a prime!
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java isPrimeMethod
+Enter number to check for prime : 12
+
+12 is not a prime!
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java isPrimeMethod
+Enter number to check for prime : 7
+
+7 is a prime!
+ ----jGRASP: operation complete.

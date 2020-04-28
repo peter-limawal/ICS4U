@@ -1,0 +1,23 @@
+ ----jGRASP exec: java PresentValue
+Enter future value you want in your account : 10000
+Enter annual interest rate : 5
+Enter number of years you plan to let the money sit in the account : 10
+
+The amount you need to deposit today is $6,139.13
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java PresentValue
+Enter future value you want in your account : 10000
+Enter annual interest rate : 1
+Enter number of years you plan to let the money sit in the account : 10
+
+The amount you need to deposit today is $9,052.87
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java PresentValue
+Enter future value you want in your account : 2000000
+Enter annual interest rate : 8
+Enter number of years you plan to let the money sit in the account : 5
+
+The amount you need to deposit today is $1,361,166.39
+ ----jGRASP: operation complete.

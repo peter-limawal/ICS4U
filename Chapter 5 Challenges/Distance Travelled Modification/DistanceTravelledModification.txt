@@ -1,0 +1,16 @@
+ ----jGRASP exec: java DistanceTravelledModification
+Enter speed of vehicle (mph) : 20
+Enter number of hours travelled : 8
+
+Hour     Distance Travelled
+---------------------------
+  1             20
+  2             40
+  3             60
+  4             80
+  5             100
+  6             120
+  7             140
+  8             160
+
+ ----jGRASP: operation complete.

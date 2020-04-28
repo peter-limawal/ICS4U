@@ -1,0 +1,20 @@
+ ----jGRASP exec: java RetailPriceCalculator
+Enter wholesale cost : 5.00
+Enter markup percentage : 100
+
+The retail price is $10.00
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java RetailPriceCalculator
+Enter wholesale cost : 5.00
+Enter markup percentage : 50
+
+The retail price is $7.50
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java RetailPriceCalculator
+Enter wholesale cost : 600.00
+Enter markup percentage : 15
+
+The retail price is $690.00
+ ----jGRASP: operation complete.

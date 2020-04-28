@@ -1,0 +1,19 @@
+ ----jGRASP exec: java StockProfit
+Enter number of shares : 10000000
+Enter purchase price per share : 100
+Enter purchase commission paid : 5
+Enter sale price per share : 150
+Enter sale commission paid : 10
+
+The amount of profit is $499,999,985.00
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java StockProfit
+Enter number of shares : 50000
+Enter purchase price per share : 40
+Enter purchase commission paid : 5
+Enter sale price per share : 30
+Enter sale commission paid : 10
+
+The amount of loss is $500,015.00
+ ----jGRASP: operation complete.

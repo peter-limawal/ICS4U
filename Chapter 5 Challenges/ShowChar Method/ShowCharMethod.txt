@@ -1,0 +1,20 @@
+ ----jGRASP exec: java ShowCharMethod
+Enter string : abcdefghijklmnopqrstuvwxyz
+Enter index number : 0
+
+The character is a
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java ShowCharMethod
+Enter string : she sells seashells by the seashore
+Enter index number : 5
+
+The character is e
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java ShowCharMethod
+Enter string : New York
+Enter index number : 2
+
+The character is w
+ ----jGRASP: operation complete.

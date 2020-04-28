@@ -1,0 +1,14 @@
+ ----jGRASP exec: java EvenOddCounter
+Number of even numbers generated: 48
+Number of odd numbers generated: 52
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java EvenOddCounter
+Number of even numbers generated: 50
+Number of odd numbers generated: 50
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java EvenOddCounter
+Number of even numbers generated: 51
+Number of odd numbers generated: 49
+ ----jGRASP: operation complete.

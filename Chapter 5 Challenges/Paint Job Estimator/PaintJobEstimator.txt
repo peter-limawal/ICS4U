@@ -1,0 +1,40 @@
+ ----jGRASP exec: java PaintJobEstimator
+Enter number of rooms to be painted : 3
+Enter square feet of wall space in room 1 : 115
+Enter square feet of wall space in room 2 : 230
+Enter square feet of wall space in room 3 : 600
+Enter price of paint per gallon : $5.00
+How much are the labourers paid per hour? : $18.00
+
+Number of rooms : 3
+Total square feet of wall space : 945.00
+Gallons of paint required : 8.22
+Hours of labour required : 65.74
+
+Total cost of paint : $41.09
+Total labour charges : $1,183.30
+Total cost of the paint job : $1,224.39
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java PaintJobEstimator
+Enter number of rooms to be painted : 0
+ERROR! Number of rooms cannot be 0 or less!
+Enter number of rooms to be painted : 2
+Enter square feet of wall space in room 1 : 500
+Enter square feet of wall space in room 2 : 900
+Enter price of paint per gallon : $-5.00
+ERROR! Price of paint cannot be less than 0!
+Enter price of paint per gallon : $10.00
+How much are the labourers paid per hour? : $-5.00
+ERROR! Labourers cannot be paid less than 0!
+How much are the labourers paid per hour? : $18.00
+
+Number of rooms : 2
+Total square feet of wall space : 1400.00
+Gallons of paint required : 12.17
+Hours of labour required : 97.39
+
+Total cost of paint : $121.74
+Total labour charges : $1,753.04
+Total cost of the paint job : $1,874.78
+ ----jGRASP: operation complete.

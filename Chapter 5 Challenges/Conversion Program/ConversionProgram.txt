@@ -1,0 +1,40 @@
+ ----jGRASP exec: java ConversionProgram
+Enter a distance in meters: -500
+ERROR! Distance cannot be less than zero!
+Enter a distance in meters: 500
+
+1. Convert to kilometer
+2. Convert to inches
+3. Convert to feet
+4. Quit the program
+
+Enter your choice: 1
+500.0 meters is 0.5 kilometers.
+
+1. Convert to kilometer
+2. Convert to inches
+3. Convert to feet
+4. Quit the program
+
+Enter your choice: 2
+500.0 meters is 19685.0 inches.
+
+1. Convert to kilometer
+2. Convert to inches
+3. Convert to feet
+4. Quit the program
+
+Enter your choice: 3
+500.0 meters is 1640.5 feet.
+
+1. Convert to kilometer
+2. Convert to inches
+3. Convert to feet
+4. Quit the program
+
+Enter your choice: 5
+
+ERROR! Only options 1 - 4!
+Enter your choice: 4
+Bye!
+ ----jGRASP: operation complete.

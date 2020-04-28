@@ -1,0 +1,27 @@
+ ----jGRASP exec: java MultipleStockSales
+Enter number of stock sales : -5
+ERROR! Number of stock sales cannot be zero or less!
+Enter number of stock sales : 0
+ERROR! Number of stock sales cannot be zero or less!
+Enter number of stock sales : 3
+
+Enter number of shares for sale 1 : 100
+Enter purchase price per share for sale 1 : 10
+Enter purchase commission paid for sale 1 : 1
+Enter sale price per share for sale 1 : 20
+Enter sale commission paid for sale 1 : 1
+
+Enter number of shares for sale 2 : 5000
+Enter purchase price per share for sale 2 : 20
+Enter purchase commission paid for sale 2 : 5
+Enter sale price per share for sale 2 : 19
+Enter sale commission paid for sale 2 : 5
+
+Enter number of shares for sale 3 : 10000
+Enter purchase price per share for sale 3 : 50
+Enter purchase commission paid for sale 3 : 10
+Enter sale price per share for sale 3 : 70
+Enter sale commission paid for sale 3 : 10
+
+The amount of profit is $195,968.00
+ ----jGRASP: operation complete.
