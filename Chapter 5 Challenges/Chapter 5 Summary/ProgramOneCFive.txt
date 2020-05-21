@@ -1,0 +1,4 @@
+ ----jGRASP exec: java ProgramOneCFive
+Please enter your name : Pablo
+Hello Pablo, nice to meet you!
+ ----jGRASP: operation complete.

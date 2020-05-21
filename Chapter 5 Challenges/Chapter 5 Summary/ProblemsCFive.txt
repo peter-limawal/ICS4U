@@ -1,0 +1,12 @@
+ProgramOne:
+Write a program with a method that outputs a greeting,
+accepting your name as an argument.
+
+ProgramTwo:
+Write a program with a method that calculates your age in days.
+Make sure the method accepts more than one argument.
+
+ProgramThree:
+Write a program that outputs a random dice roll with two different methods.
+A method that returns an integer value of the face of the dice.
+A void method that outputs the result of your dice roll.

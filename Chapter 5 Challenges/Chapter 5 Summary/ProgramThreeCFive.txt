@@ -1,0 +1,14 @@
+ ----jGRASP exec: java ProgramThreeCFive
+Enter the number of faces the dice has : 6
+You have rolled a 1!
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java ProgramThreeCFive
+Enter the number of faces the dice has : 6
+You have rolled a 2!
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java ProgramThreeCFive
+Enter the number of faces the dice has : 8
+You have rolled a 7!
+ ----jGRASP: operation complete.
