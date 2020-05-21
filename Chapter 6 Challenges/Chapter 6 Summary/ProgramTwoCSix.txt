@@ -1,0 +1,18 @@
+ ----jGRASP exec: java ProgramTwoCSix
+When was UWaterloo established? : 1959
+When was UToronto established? : 1827
+When was McMaster established? : 1887
+
+
+University of Waterloo is a university located in Waterloo, Ontario.
+Established in 1959, it is now 61 years old.
+The university's motto is "In harmony with truth".
+
+University of Toronto is a university located in Toronto, Ontario.
+Established in 1827, it is now 193 years old.
+The university's motto is "As a tree through the ages".
+
+McMaster University is a university located in Hamilton, Ontario.
+Established in 1887, it is now 133 years old.
+The university's motto is "In Christ all things consist".
+ ----jGRASP: operation complete.

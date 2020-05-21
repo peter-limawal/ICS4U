@@ -1,0 +1,23 @@
+ ----jGRASP exec: java ProgramOneCSix
+Enter your name : Pablo
+Enter your birth date : 14
+Enter your birth month : September
+Enter your birth year : 2002
+Enter your favourite colour : Blue
+
+Your name is Pablo
+You are born on September 14, 2002
+Your favourite colour is Blue
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java ProgramOneCSix
+Enter your name : Ashley
+Enter your birth date : 16
+Enter your birth month : December
+Enter your birth year : 2002
+Enter your favourite colour : White
+
+Your name is Ashley
+You are born on December 16, 2002
+Your favourite colour is White
+ ----jGRASP: operation complete.

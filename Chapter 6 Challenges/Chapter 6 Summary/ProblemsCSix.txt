@@ -1,0 +1,17 @@
+ProgramOne:
+Write a class file that contains the following instance fields:
+String name, int birthDate, String birthMonth, int birthYear, String favColour
+Also, create the appropriate constructors for the class file.
+Demonstrate the class file by asking for someone's information and outputting the profile.
+
+ProgramTwo:
+Write a class file that contains data for a university profile.
+The class file should contain the follwing instance fields:
+String uniName, String uniLocation, int yearEstablished, String uniMotto
+Also, create the appropriate constructors, accessors, and mutators for the class file.
+In addition to this, create a calculator method that calculates the age of the university,
+accepting the current year as an argument.
+Demonstrate the class file by creating three different objects and creating a profile summary
+of the universities as output.
+Not only that, demonstrate the ability to use the accessors, mutators, and calculators
+that have been created in the class file.
