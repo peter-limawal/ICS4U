@@ -1,0 +1,9 @@
+ProblemOne:
+Write a program that demonstrates an if-else-if statement.
+
+ProblemTwo:
+Write a program that compares strings as the if statement conditions.
+
+ProblemThree:
+Write a program that demonstrate switch statements by accepting
+the month of birth and outputting the birth stone.

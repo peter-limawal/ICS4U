@@ -1,0 +1,13 @@
+ ----jGRASP exec: java ProgramTwoCThree
+Enter fruit A : Banana
+Enter fruit B : Banana
+Enter fruit C : Banana
+Fruit A, B, and C are the same! (Banana)
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java ProgramTwoCThree
+Enter fruit A : Banana
+Enter fruit B : Apple
+Enter fruit C : Pear
+Fruit A, B, and C are not all the same! (Banana, Apple, Pear)
+ ----jGRASP: operation complete.

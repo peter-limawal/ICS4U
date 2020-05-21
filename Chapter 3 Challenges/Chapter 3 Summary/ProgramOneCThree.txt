@@ -1,0 +1,24 @@
+ ----jGRASP exec: java ProgramOneCThree
+Enter a number: -10
+The number -10 is less than 0
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java ProgramOneCThree
+Enter a number: 0
+The number 0 is between and inclusive of 0 and 100
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java ProgramOneCThree
+Enter a number: 10
+The number 10 is between and inclusive of 0 and 100
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java ProgramOneCThree
+Enter a number: 100
+The number 100 is between and inclusive of 0 and 100
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java ProgramOneCThree
+Enter a number: 101
+The number 101 is more than 100
+ ----jGRASP: operation complete.

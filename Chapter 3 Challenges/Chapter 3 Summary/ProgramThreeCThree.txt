@@ -1,0 +1,19 @@
+ ----jGRASP exec: java ProgramThreeCThree
+Enter your birth month in numbers (1 = January, 2 = Febuary, etc.) : 9
+Your birth stone is a sapphire
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java ProgramThreeCThree
+Enter your birth month in numbers (1 = January, 2 = Febuary, etc.) : 4
+Your birth stone is a diamond
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java ProgramThreeCThree
+Enter your birth month in numbers (1 = January, 2 = Febuary, etc.) : 6
+Your birth stone is a pearl
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java ProgramThreeCThree
+Enter your birth month in numbers (1 = January, 2 = Febuary, etc.) : 0
+Error! Month does not exist!
+ ----jGRASP: operation complete.
