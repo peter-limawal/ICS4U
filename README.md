@@ -31,3 +31,8 @@ Gaddis, Tony. Starting Out with Java: From Control Structures Through Objects. P
 [Chapter 6 Summary Sheet](https://github.com/peter-limawal/ICS4U/blob/master/Chapter%206%20Challenges/Chapter%206%20Summary/ICS4U%20CCA%20Chapter%206.pdf)
 
 [Chapter 6 Projects](https://github.com/peter-limawal/ICS4U/tree/master/Chapter%206%20Challenges)
+
+### [Chapter 7: Arrays](https://github.com/peter-limawal/ICS4U/tree/master/Chapter%207%20Challenges/Chapter%207%20Summary)
+[Chapter 7 Summary Sheet](https://github.com/peter-limawal/ICS4U/blob/master/Chapter%207%20Challenges/Chapter%207%20Summary/ICS4U%20CCA%20Chapter%207.pdf)
+
+[Chapter 7 Projects](https://github.com/peter-limawal/ICS4U/tree/master/Chapter%207%20Challenges)
