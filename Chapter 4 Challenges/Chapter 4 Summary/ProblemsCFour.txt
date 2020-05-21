@@ -1,0 +1,6 @@
+ProgramOne:
+Write a program that prints the odd numbers from 0 to 100.
+
+ProgramTwo:
+Write a program that demonstrates the ability to read from files and write files as output.
+Also, provide an example of a nested loop.
