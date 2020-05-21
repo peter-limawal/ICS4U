@@ -1,0 +1,11 @@
+ProgramOne:
+Write a program that will print a sentence.
+Also, demonstrate the effect of a comment.
+
+ProgramTwo:
+Write a program displaying a few of the different variable types.
+Also, demonstrate the ability to access and manipulate variables.
+
+ProgramThree:
+Write a program that is able to accept input using Scanner class.
+Also, demonstrate the ability for the program to output.
