@@ -1,0 +1,8 @@
+ ----jGRASP exec: java ProgramTwoCSeven
+The football club Everton is from Liverpool, Merseyside.
+The football club Chelsea is from Fulham, London.
+The football club Manchester United is from Manchester, Greater Manchester.
+The football club Watford is from Watford, Hertfordshire.
+The football club Arsenal is from Islington, London.
+
+ ----jGRASP: operation complete.

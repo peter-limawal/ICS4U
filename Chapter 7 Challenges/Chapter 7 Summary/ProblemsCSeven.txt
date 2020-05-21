@@ -1,0 +1,19 @@
+ProgramOne:
+Write a program that creates an array of size 20 filled with random numbers from 1 to 10.
+Find the sum of the array, average of the array, and the difference between the largest and smallest values in the array.
+
+ProgramTwo:
+Write a program that creates a two-dimensional array with 2 rows and 20 columns.
+The first row should contain 20 football teams in the Premier League.
+The second row should contain the place where the club is from.
+Output 5 random football clubs and their places of origin.
+
+ProgramThree:
+Write a program that creates an array of size 100 filled with random numbers from 1 to 100.
+The program should have the following methods:
+A sequential search method
+A selection sort method
+A binary search method
+The program should accept an integer value as a test number and using the sequential search
+method once, and the binary search method once, the program should determine if the test
+number exists in the array.

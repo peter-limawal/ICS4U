@@ -1,0 +1,13 @@
+ ----jGRASP exec: java ProgramOneCSeven
+The array is: 5 7 9 8 8 9 1 1 3 2 8 7 7 10 10 4 7 4 2 3 
+The sum of the array values are: 115
+The average of the array values is: 5.75
+The difference between the largest and smallest array values is: 9
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java ProgramOneCSeven
+The array is: 8 7 8 7 5 9 3 3 8 2 1 7 1 2 7 8 3 9 9 4 
+The sum of the array values are: 111
+The average of the array values is: 5.55
+The difference between the largest and smallest array values is: 8
+ ----jGRASP: operation complete.
