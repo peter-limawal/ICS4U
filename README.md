@@ -1,5 +1,5 @@
 # ICS4U
-Projects assigned in my ICS4U class
+Projects assigned in my ICS4U class in Java
 
 Questions obtained from:
 
