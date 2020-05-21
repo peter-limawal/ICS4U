@@ -1,0 +1,17 @@
+ ----jGRASP exec: java ProgramTwoCSixteen
+Enter a sentence : Hey now we'll be okay, it's alright
+
+HEy nOw wE'll bE OkAy, It's AlrIght
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java ProgramTwoCSixteen
+Enter a sentence : Spongebob Squarepants
+
+SpOngEbOb SqUArEpAnts
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java ProgramTwoCSixteen
+Enter a sentence : Columbia International College
+
+COlUmbIA IntErnAtIOnAl COllEgE
+ ----jGRASP: operation complete.

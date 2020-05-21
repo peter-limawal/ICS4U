@@ -1,0 +1,8 @@
+ProgramOne:
+Using recursion, write a program that prints the number n a total of n number of times.
+The recursion method should then start a new line and print the number (n-1) at total of (n-1) number of times.
+This should continue until n is equal to zero.
+
+ProgramTwo:
+Write a program that accepts a sentence and outputs the same sentence with all of the vowels in upperCase.
+Use a recursive method that accepts the sentence as an argument and returns the final sentence with all of the vowels in capital letters.
